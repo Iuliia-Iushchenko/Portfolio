@@ -1,0 +1,29 @@
+@import url(./__logo/hero__logo.css);
+@import url(./__menu-link/hero__menu-link.css);
+@import url(./__menu-links/hero__menu-links.css);
+@import url(./__navigation/hero__navigation.css);
+@import url(./__subtitle/hero__subtitle.css);
+@import url(./__title/hero__title.css);
+@import url(./__works/hero__works.css);
+
+.hero {
+  background: linear-gradient(rgba(198, 108, 73, 0.3),
+  rgba(198, 108, 73, 0.3)), url(../../images/HeroSection.jpg);
+  min-height: 768px;
+  padding: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
