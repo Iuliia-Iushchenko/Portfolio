@@ -1,0 +1,6 @@
+.cells-title {
+  margin: 0;
+  padding: 0;
+  padding-right: 3.75rem;
+  grid-area: cells-title;
+}

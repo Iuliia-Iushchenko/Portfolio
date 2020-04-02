@@ -1,0 +1,9 @@
+.skills__container {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-areas:
+  "title . ."
+  "picture cells-title cells-description";
+  row-gap: 5.375rem;
+}
