@@ -9,8 +9,9 @@
 .hero {
   background: linear-gradient(rgba(198, 108, 73, 0.3),
   rgba(198, 108, 73, 0.3)), url(../../images/HeroSection.jpg);
-  min-height: 768px;
-  padding: 0;
+  min-height: 48rem;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 
