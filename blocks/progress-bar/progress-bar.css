@@ -1,0 +1,11 @@
+@import url(./_ux-research/progress-bar_ux-research.css);
+@import url(./_ui-design/progress-bar_ui-design.css);
+@import url(./_frontend-dev/progress-bar_frontend-dev.css);
+
+.progress-bar {
+  background-color: #F5D6AB;
+  height: 24px;
+  width: 446px;
+  margin: 0;
+  position: relative;
+}

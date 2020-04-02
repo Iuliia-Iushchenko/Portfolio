@@ -1,0 +1,5 @@
+.skills__picture {
+  max-width: 350px;
+  padding-right: 7.5rem;
+  grid-area: picture;
+}
