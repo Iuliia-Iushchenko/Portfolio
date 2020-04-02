@@ -1,0 +1,11 @@
+.hero__works {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.125rem;
+    line-height: 1.375rem;
+    text-decoration-line: underline;
+    margin-top: 6.625rem;
+    margin-left: 10.3125rem;
+    display: block;
+  }
