@@ -1,0 +1,7 @@
+.hero__navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 69.3rem;
+    margin: auto;
+  }

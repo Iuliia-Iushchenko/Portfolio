@@ -1,0 +1,10 @@
+.hero__subtitle {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.5rem;
+    line-height: 1.8125rem;
+    color: #FFFFFF;
+    margin-top: -0.9375rem;
+    margin-left: 10.3125rem;
+    display: block;
+  }

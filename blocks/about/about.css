@@ -1,0 +1,7 @@
+@import url(./__title/about__title.css);
+@import url(./__text/about__text.css);
+
+.about {
+    padding-bottom: 7.1875rem;
+    padding-top: 5.8125rem;
+  }

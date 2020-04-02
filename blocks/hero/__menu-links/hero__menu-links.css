@@ -1,0 +1,9 @@
+.hero__menu-links {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    max-width: 33rem;
+    margin-top: 5.8125rem;
+    margin-bottom: 0;
+  }
