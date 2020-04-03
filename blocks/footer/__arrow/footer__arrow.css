@@ -1,0 +1,9 @@
+.footer__arrow {
+  display: block;
+  width: 24px;
+  height: 24px;
+  background-image: url(../../../images/back-to-top.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: 97%;
+}
