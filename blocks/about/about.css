@@ -2,6 +2,8 @@
 @import url(./__text/about__text.css);
 
 .about {
+    width: 77%;
+    margin: 0 auto;
     padding-bottom: 7.1875rem;
-    padding-top: 5.8125rem;
+    color: #333333;
   }
