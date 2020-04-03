@@ -1,4 +1,5 @@
 @import url(./__title/about__title.css);
+@import url(./__paragraph/about__paragraph.css);
 @import url(./__text/about__text.css);
 
 .about {
