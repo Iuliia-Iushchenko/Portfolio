@@ -8,3 +8,9 @@
     margin-right: 3.6875rem;
     vertical-align: top;
   }
+
+
+.hero__menu-link:hover {
+  opacity: 0.4;
+  transition: 1s linear;
+}

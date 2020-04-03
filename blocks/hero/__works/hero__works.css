@@ -8,3 +8,8 @@
     margin-top: 6.625rem;
     display: block;
   }
+
+  .hero__works:hover {
+    opacity: 0.4;
+    transition: 1s linear;
+  }
