@@ -1,0 +1,6 @@
+.portfolio__arrows {
+  display: flex;
+  position: absolute;
+  left: 20px;
+  bottom: 0;
+}

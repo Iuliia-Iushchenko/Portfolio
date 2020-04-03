@@ -1,0 +1,6 @@
+.portfolio__content {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 145px;
+}
