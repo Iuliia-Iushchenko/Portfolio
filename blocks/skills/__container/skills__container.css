@@ -1,9 +1,20 @@
 .skills__container {
-  max-width: 1100px;
   margin: 0 auto;
   display: grid;
   grid-template-areas:
   "title . ."
   "picture cells-title cells-description";
   row-gap: 5.375rem;
+  padding-bottom: 145px;
+}
+
+@media screen and (max-width: 600px) {
+  .skills__container {
+    grid-template-areas:
+    "title ."
+    "picture ."
+    "cells-title cells-description";
+    row-gap: 4rem;
+    padding-bottom: 93px;
+  }
 }

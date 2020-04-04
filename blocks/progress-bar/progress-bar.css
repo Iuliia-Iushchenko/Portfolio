@@ -9,3 +9,17 @@
   margin: 0;
   position: relative;
 }
+
+
+@media screen and (max-width: 768px) {
+  .progress-bar {
+    height: 33px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .progress-bar {
+    height: 50px;
+    width: 580px;
+  }
+}

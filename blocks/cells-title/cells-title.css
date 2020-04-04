@@ -4,3 +4,9 @@
   padding-right: 3.75rem;
   grid-area: cells-title;
 }
+
+@media screen and (max-width: 768px) {
+  .cells-title {
+    padding-right: 0;
+  }
+}
