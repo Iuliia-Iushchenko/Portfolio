@@ -8,3 +8,17 @@
   top: 0;
   left: 0;
 }
+
+@media screen and (max-width: 768px) {
+  .progress-bar_frontend-dev::before {
+    height: 33px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .progress-bar_frontend-dev::before {
+    height: 50px;
+    width: 371px;
+  }
+}
+

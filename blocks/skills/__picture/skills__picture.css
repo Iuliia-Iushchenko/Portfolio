@@ -3,3 +3,18 @@
   padding-right: 7.5rem;
   grid-area: picture;
 }
+
+@media screen and (max-width: 768px) {
+  .skills__picture {
+    padding-right: 6.25rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .skills__picture {
+    grid-column: 1 / -1;
+    grid-row: 2 / 3;
+    padding-right: 0;
+    justify-self: center;
+  }
+}

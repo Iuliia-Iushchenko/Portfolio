@@ -3,8 +3,8 @@
 @import url(./__picture/skills__picture.css);
 
 .skills {
-  height: 100vh;
-  max-height: 693px;
   box-sizing: border-box;
   background-color: #FFFAF2;
 }
+
+

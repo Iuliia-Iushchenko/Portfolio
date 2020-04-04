@@ -14,3 +14,17 @@
 .cell-description:last-of-type {
   padding-bottom: 0;
 }
+
+@media screen and (max-width: 768px) {
+  .cell-description {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .cell-description {
+    font-size: 2.5rem;
+    line-height: 3rem;
+  }
+}
