@@ -6,6 +6,8 @@
 @import url(__arrows/portfolio__arrows.css);
 @import url(__link/portfolio__link.css);
 
-.portfolio {
-  margin: 0 auto;
+@media screen and (max-width: 600px) {
+  .portfolio {
+    width: 82%
+  }
 }

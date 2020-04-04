@@ -1,6 +1,12 @@
 .footer__container {
   width: 77%;
   margin: 0 auto;
-  padding-bottom: 70px;
+  padding-bottom: 189px;
   position: relative;
+}
+
+@media screen and (max-width: 600px) {
+  .footer__container {
+    padding-bottom: 50px;
+  }
 }
