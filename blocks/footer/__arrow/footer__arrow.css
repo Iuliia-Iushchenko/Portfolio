@@ -5,5 +5,15 @@
   background-image: url(../../../images/back-to-top.svg);
   background-repeat: no-repeat;
   background-size: cover;
-  margin-left: 97%;
+  position: absolute;
+  right: 0;
+  bottom: 70px;
+}
+
+@media screen and (max-width: 600px) {
+  .footer__arrow {
+    bottom: 100px;
+    width: 80px;
+    height: 80px;
+  }
 }

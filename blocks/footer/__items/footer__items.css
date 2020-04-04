@@ -1,6 +1,12 @@
 .footer__items {
   display: flex;
-  margin-bottom: 95px;
   margin-top: 51px;
+}
+
+@media screen and (max-width: 600px) {
+  .footer__items {
+    flex-wrap: wrap;
+
+  }
 }
 

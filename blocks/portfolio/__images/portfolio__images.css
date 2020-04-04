@@ -5,3 +5,10 @@
   grid-template-rows: repeat(5, 75px);
   grid-gap: 30px;
 }
+
+@media screen and (max-width: 600px) {
+  .portfolio__images {
+    width: 100%;
+    grid-template-rows: repeat(5, 100px);
+  }
+}
