@@ -6,9 +6,16 @@
   grid-gap: 30px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1252px) {
   .portfolio__images {
-    width: 100%;
-    grid-template-rows: repeat(5, 100px);
+    width: 62%;
+    grid-template-rows: repeat(5, 70px);
+  }
+}
+
+@media screen and (max-width: 1052px) {
+  .portfolio__images {
+    width: 85%;
+    grid-template-rows: repeat(5, 80px);
   }
 }

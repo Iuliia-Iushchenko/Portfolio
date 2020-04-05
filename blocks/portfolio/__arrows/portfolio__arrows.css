@@ -5,7 +5,7 @@
   bottom: 0;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1052px) {
   .portfolio__arrows {
     display: none;
   }
