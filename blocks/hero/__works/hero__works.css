@@ -13,3 +13,13 @@
     opacity: 0.4;
     transition: 1s linear;
   }
+
+  @media screen and (max-width: 500px) {
+    .hero__works {
+      font-size: 0.8rem;
+      line-height: 1rem;
+      text-align: center;
+      padding-bottom: 3.125rem;
+      margin-top: 2.5rem;
+    }
+  }

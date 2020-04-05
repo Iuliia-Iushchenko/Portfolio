@@ -6,4 +6,13 @@
     color: #FFFFFF;
     margin: 0;
     display: block;
+    border: orangered 1px solid;
+  }
+
+  @media screen and (max-width: 500px) {
+    .hero__subtitle {
+      font-size: 0.8rem;
+      line-height: 1rem;
+      text-align: center;
+    }
   }

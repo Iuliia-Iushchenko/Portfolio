@@ -9,6 +9,18 @@
 @media screen and (max-width: 1052px) {
   .section-title {
     text-align: center;
+    padding-top: 3.5rem;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .section-title {
     padding-top: 1.625rem;
   }
+}
+
+@media screen and (max-width: 500px) {
+  .section-title {
+  padding-top: 1.56rem;
+}
 }

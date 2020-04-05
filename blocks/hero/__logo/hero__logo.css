@@ -6,4 +6,13 @@
     color: #FFFFFF;
     margin-top: 5.8125rem;
     margin-bottom: 0;
+    border: orangered 1px solid;
+
+  }
+
+  @media screen and (max-width: 500px) {
+    .hero__logo {
+      text-align: center;
+      margin-top: 2.3rem;
+    }
   }

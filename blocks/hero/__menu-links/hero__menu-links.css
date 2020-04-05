@@ -6,4 +6,25 @@
     max-width: 33rem;
     margin-top: 5.8125rem;
     margin-bottom: 0;
+    border: orangered 1px solid;
+  }
+
+  @media screen and (max-width: 730px) {
+    .hero__menu-links {
+      justify-content: flex-end;
+      border: orangered 1px solid;
+    }
+  }
+
+  @media screen and (max-width: 570px) {
+    ..hero__menu-links {
+      max-width: 25rem;
+      min-width: 10rem;
+    }
+  }
+
+  @media screen and (max-width: 500px) {
+    .hero__menu-links {
+    display: none;
+    }
   }

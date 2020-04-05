@@ -5,3 +5,9 @@
     margin: 0 auto;
     padding-bottom: 7.1875rem;
   }
+
+  @media screen and (max-width: 500px) {
+    .about {
+      padding-bottom: 0.5rem;
+    }
+  }
