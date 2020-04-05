@@ -9,15 +9,21 @@
   left: 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1252px) {
   .progress-bar_ux-research::before  {
-    height: 33px;
+    height: 25px;
+    width: 281px;
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
   .progress-bar_ux-research::before  {
-    height: 50px;
-    width: 494px;
+    width: 180px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .progress-bar_ux-research::before {
+    height: 18px;
   }
 }

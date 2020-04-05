@@ -6,11 +6,9 @@
     margin: 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1052px) {
   .section-title {
     text-align: center;
-    font-weight: 600;
-    font-size: 3.8rem;
-    line-height: 3.8rem;
+    padding-top: 1.625rem;
   }
 }

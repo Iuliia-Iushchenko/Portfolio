@@ -8,13 +8,14 @@
   padding-bottom: 145px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1052px) {
   .skills__container {
     grid-template-areas:
     "title ."
     "picture ."
     "cells-title cells-description";
-    row-gap: 4rem;
-    padding-bottom: 93px;
+    row-gap: 1.625rem;
+    padding-bottom: 1.625rem;
+    max-width: fit-content;
   }
 }

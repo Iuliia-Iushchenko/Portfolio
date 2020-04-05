@@ -4,14 +4,16 @@
   grid-area: picture;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1252px) {
   .skills__picture {
-    padding-right: 6.25rem;
+    max-width: 320px;
+    padding-right: 0;
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1052px) {
   .skills__picture {
+    max-width: 224px;
     grid-column: 1 / -1;
     grid-row: 2 / 3;
     padding-right: 0;
