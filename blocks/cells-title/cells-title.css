@@ -5,8 +5,20 @@
   grid-area: cells-title;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1252px) {
   .cells-title {
     padding-right: 0;
+  }
+}
+
+@media screen and (max-width: 1052px) {
+  .cells-title {
+    padding-right: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .cells-title {
+    padding-right: 1rem;
   }
 }

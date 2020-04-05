@@ -9,16 +9,21 @@
   left: 0;
 }
 
+@media screen and (max-width: 1252px) {
+  .progress-bar_frontend-dev::before {
+    height: 25px;
+    width: 186px;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .progress-bar_frontend-dev::before {
-    height: 33px;
+    width: 135px;
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 400px) {
   .progress-bar_frontend-dev::before {
-    height: 50px;
-    width: 371px;
+    height: 18px;
   }
 }
-
