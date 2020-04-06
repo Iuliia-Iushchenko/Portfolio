@@ -11,8 +11,8 @@
 .hero {
   background: linear-gradient(rgba(198, 108, 73, 0.3),
   rgba(198, 108, 73, 0.3)), url(../../images/HeroSection.jpg);
-  max-height: 48rem;
-  max-width: 90rem;
+  max-height: 47rem;
+  max-width: 89rem;
   -webkit-background-size: contain;
   background-size: contain;
   background-repeat: no-repeat;

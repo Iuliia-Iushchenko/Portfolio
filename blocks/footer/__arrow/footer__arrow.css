@@ -12,6 +12,8 @@
 
 @media screen and (max-width: 1052px) {
   .footer__arrow {
-    bottom: 50px;
+    bottom: 40px;
+    width: 30px;
+    height: 30px;
   }
 }
