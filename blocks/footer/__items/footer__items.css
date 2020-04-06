@@ -6,7 +6,7 @@
 @media screen and (max-width: 1052px) {
   .footer__items {
     flex-wrap: wrap;
-    margin-bottom: 50px;
+    padding-bottom: 50px;
   }
 }
 
