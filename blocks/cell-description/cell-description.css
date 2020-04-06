@@ -46,3 +46,9 @@
     padding-bottom: 0;
   }
 }
+
+@media screen and (max-width: 340px) {
+  .cell-description {
+    font-size: 0.6875rem;
+  }
+}

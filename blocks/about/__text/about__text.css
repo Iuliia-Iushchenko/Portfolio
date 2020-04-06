@@ -11,6 +11,6 @@
 @media screen and (max-width: 500px) {
   .about__text {
     font-size: 0.75rem;
-    line-height: 0.9rem;
+    line-height: 0.9375rem;
   }
 }
