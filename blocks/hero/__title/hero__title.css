@@ -6,7 +6,6 @@
     align-items: center;
     color: #FFFFFF;
     margin: 8.75rem 0 1.625rem 0;
-    border: orangered 1px solid;
   }
 
   @media screen and (max-width: 500px) {

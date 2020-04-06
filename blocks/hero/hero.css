@@ -16,7 +16,6 @@
   -webkit-background-size: contain;
   background-size: contain;
   background-repeat: no-repeat;
-  border: orangered 1px solid;
   margin: auto;
   padding-bottom: 15rem;
 }
@@ -31,6 +30,12 @@
   }
 }
 
+@media screen and (max-width: 1024px) {
+  .hero {
+    padding-bottom: 3.125rem;
+  }
+}
+
 @media screen and (max-width: 500px) {
   .hero {
     max-height: 28rem;
@@ -38,6 +43,7 @@
     max-width: 31.25rem;
     min-width: 10rem;
     background-size: cover;
+    padding-bottom: 0;
   }
 }
 

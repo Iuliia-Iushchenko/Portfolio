@@ -9,14 +9,7 @@
 
 @media screen and (max-width: 768px) {
   .footer__list {
-    font-size: 1.5rem;
-    line-height: 2rem;
-  }
-}
-
-@media screen and (max-width: 600px) {
-  .footer__list {
-    font-size: 3rem;
-    line-height: 5rem;
+    font-size: 0.875rem;
+    line-height: 1.1875rem;
   }
 }
